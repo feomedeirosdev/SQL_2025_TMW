@@ -32,4 +32,5 @@ std_idades
 
 # %%
 S_idades.std()
+
 # %%
