@@ -1,0 +1,124 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Logs e temporários
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# === Sistemas Operacionais ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Dados (datasets locais) ===
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.json
+*.xml
+*.yaml
+*.yml
+*.h5
+*.hdf5
+*.xls
+*.xlsx
+
+# === Modelos treinados / serialização ===
+*.pkl
+*.joblib
+*.sav
+*.pt
+*.pth
+*.onnx
+
+# === Relatórios e documentos ===
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.odt
+*.ods
+*.odp
+*.rtf
+
+# === Imagens e gráficos ===
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.eps
+*.ai
+*.psd
+
+# === Áudio e Vídeo (se usado em datasets) ===
+*.mp3
+*.wav
+*.flac
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wmv
+
+# === Bancos de Dados locais ===
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.accdb
+*.sql
+
+# === Executáveis e Binários ===
+*.exe
+*.dll
+*.bin
+*.dat
+*.class
+*.jar
+*.apk
+*.msi
+*.iso
+*.dmg
+*.app
+
+# === Arquivos de compressão ===
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.gz
+*.bz2
+
+# === IDEs e configs locais ===
+.vscode/
+.idea/
