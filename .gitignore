@@ -95,7 +95,6 @@ desktop.ini
 *.sqlite3
 *.mdb
 *.accdb
-*.sql
 
 # === Executáveis e Binários ===
 *.exe
